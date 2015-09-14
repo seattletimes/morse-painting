@@ -12,9 +12,9 @@ var mapElement = document.querySelector("leaflet-map");
 var map = mapElement.map;
 var L = mapElement.leaflet;
 
-map.on("click", function(e) {
-  console.log([e.latlng.lat, e.latlng.lng]);
-});
+// map.on("click", function(e) {
+//   console.log([e.latlng.lat, e.latlng.lng]);
+// });
 
 window.paintings.forEach(function(row) {
   var shape;

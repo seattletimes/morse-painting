@@ -1,0 +1,482 @@
+[
+  {
+    "title": "Wedding at Cana, Paolo Veronese",
+    "zone": 1,
+    "description": "",
+    "date": 1563,
+    "url": "http://www.louvre.fr/en/oeuvre-notices/wedding-feast-cana",
+    "ne": "",
+    "sw": "",
+    "poly": "-28.27,-172.27,-43.3,-152.93,-78.13,-153.28,-78.27,-180,-29.2,-180"
+  },
+  {
+    "title": "Richard Habersham, Morse's roommate in Paris",
+    "zone": 2,
+    "description": "American artist",
+    "date": "d. 1842",
+    "url": "",
+    "ne": "-79.78,-145.02",
+    "sw": "-84.74,-177.54",
+    "poly": ""
+  },
+  {
+    "title": "The 'Soult' Immaculate Conception, Bartoleme Murillo",
+    "zone": 3,
+    "description": "",
+    "date": 1678,
+    "url": "http://bit.ly/1K8YVcS",
+    "ne": "",
+    "sw": "",
+    "poly": "-42.23,-146.07,-45.46,-142.03,-57.42,-142.73,-55.88,-146.43"
+  },
+  {
+    "title": "The Descent from the Cross, Jean Jouvenet",
+    "zone": 4,
+    "description": "",
+    "date": 1697,
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-52.9,-151.52,-59.44,-139,-79.34,-138.34,-79.65,-152.58"
+  },
+  {
+    "title": "Self portrait, Tintoretto",
+    "zone": 5,
+    "description": "",
+    "date": 1588,
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-47.1,-134.08,-48.48,-125.99,-56.12,-127.97,-55.15,-136.19"
+  },
+  {
+    "title": "Winter (the Deluge), Nicholas Poussin",
+    "zone": 6,
+    "description": "",
+    "date": "1660-64",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-54.9,-139.91,-56.51,-124.41,-63.84,-126.17,-63.11,-138.43,-59.55,-138.78,-58.67,-140.32"
+  },
+  {
+    "title": "The Fortuneteller, Caravaggio",
+    "zone": 7,
+    "description": "",
+    "date": "1596-97? disputed",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-63.21,-138.34,-64.17,-124.85,-70.12,-126.17,-69.7,-138.65"
+  },
+  {
+    "title": "Crowning with Thorns, Titian",
+    "zone": 8,
+    "description": "",
+    "date": 1540,
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-69.43,-138.56,-69.9,-126.04,-77.94,-125.64,-77.89,-138.3"
+  },
+  {
+    "title": "James Fenimore Cooper, his wife Susan DeLancy Fenimore Cooper, and daughter Susan Fenimore Cooper (seated)",
+    "zone": 9,
+    "description": "",
+    "date": "1789-1851",
+    "url": "",
+    "ne": "-78.42,-123.13",
+    "sw": "-82.3,-138.25",
+    "poly": ""
+  },
+  {
+    "title": "Susan DeLancy Fenimore Cooper, his wife",
+    "zone": 10,
+    "description": "",
+    "date": "1792-1852",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": ""
+  },
+  {
+    "title": "Susan Fenimore Cooper, their daughter",
+    "zone": 11,
+    "description": "",
+    "date": "1813-1894",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": ""
+  },
+  {
+    "title": "Venus at the Forge of Vulcan",
+    "zone": 12,
+    "description": "van Dyck",
+    "date": "1630-32",
+    "url": "",
+    "ne": "-40.85,-101.5",
+    "sw": "-60.55,-123.93",
+    "poly": ""
+  },
+  {
+    "title": "Disembarkation of Cleopatra at Tarsus",
+    "zone": 13,
+    "description": "Claude Lorrain",
+    "date": 1642,
+    "url": "",
+    "ne": "-61.98,-102.39",
+    "sw": "-68.2,-124.19",
+    "poly": ""
+  },
+  {
+    "title": "The Holy Family",
+    "zone": 14,
+    "description": "Bartolome Murillo",
+    "date": "1665-70",
+    "url": "",
+    "ne": "-70.08,-102.48",
+    "sw": "-77.45,-122.52",
+    "poly": ""
+  },
+  {
+    "title": "Knife Grinder",
+    "zone": 15,
+    "description": "David Teniers II",
+    "date": "?",
+    "url": "",
+    "ne": "-78.4,-115.05",
+    "sw": "-80.15,-122.43",
+    "poly": ""
+  },
+  {
+    "title": "Tobias and the Angel",
+    "zone": 16,
+    "description": "Rembrandt",
+    "date": 1637,
+    "url": "",
+    "ne": "-78.38,-102.57",
+    "sw": "-80,-109.82",
+    "poly": ""
+  },
+  {
+    "title": "Diogenes Casting Away His Cup",
+    "zone": 17,
+    "description": "Nicolas Poussin",
+    "date": "",
+    "url": "",
+    "ne": "-42.61,-69.17",
+    "sw": "-55.77,-97.56",
+    "poly": ""
+  },
+  {
+    "title": "\"Supper at \nEmmaus\"",
+    "zone": 18,
+    "description": "Titian",
+    "date": "",
+    "url": "",
+    "ne": "-58.44,-69.76",
+    "sw": "-67.03,-97.03",
+    "poly": ""
+  },
+  {
+    "title": "Horatio Greenough, American sculptor",
+    "zone": 19,
+    "description": "1805-52",
+    "date": "",
+    "url": "",
+    "ne": "-78.38,-86.57",
+    "sw": "-80.7,-92.55",
+    "poly": ""
+  },
+  {
+    "title": "Susan Morse, daughter, or possibly a student of Morse",
+    "zone": 20,
+    "description": "1813-94",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-80.15,-76.73,-81.45,-73.39,-84.81,-72.95,-84.7,-97.47,-81.54,-90.35,-80.31,-80.42"
+  },
+  {
+    "title": "Samuel F.B. Morse",
+    "zone": 21,
+    "description": "1791-1872",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-79.46,-71.72,-81.82,-55.37,-84.8,-54.4,-84.79,-62.49,-81.87,-69.7,-80.43,-75.5,-79.7,-75.76,-79.46,-71.54"
+  },
+  {
+    "title": "Landscape with Shepherds and Herd",
+    "zone": 22,
+    "description": "Huysmans",
+    "date": "",
+    "url": "",
+    "ne": "-40.31,-44.6",
+    "sw": "-50.17,-65.13",
+    "poly": ""
+  },
+  {
+    "title": "Portrait of a Lady and Her Daughter",
+    "zone": 23,
+    "description": "van Dyck",
+    "date": "",
+    "url": "",
+    "ne": "-52.53,-49.7",
+    "sw": "-64.47,-64.82",
+    "poly": ""
+  },
+  {
+    "title": "Francis I",
+    "zone": 24,
+    "description": "Titian",
+    "date": "",
+    "url": "",
+    "ne": "-66.44,-51.11",
+    "sw": "-71.84,-63.94",
+    "poly": ""
+  },
+  {
+    "title": "Beggar Boy",
+    "zone": 25,
+    "description": "Murillo",
+    "date": "",
+    "url": "",
+    "ne": "-73.16,-50.76",
+    "sw": "-77.61,-64.25",
+    "poly": ""
+  },
+  {
+    "title": "Christ Carrying the Cross",
+    "zone": 26,
+    "description": "Eustache Le Sueur and his studio",
+    "date": "",
+    "url": "",
+    "ne": "-78.44,-54.58",
+    "sw": "-79.96,-65.48",
+    "poly": ""
+  },
+  {
+    "title": "Mona Lisa",
+    "zone": 27,
+    "description": "da Vinci",
+    "date": "",
+    "url": "",
+    "ne": "-78.44,-43.86",
+    "sw": "-80.41,-51.5",
+    "poly": ""
+  },
+  {
+    "title": "Mystic Marriage of Saint\nCatherine of Alexandria with Saint Sebastian",
+    "zone": 28,
+    "description": "Correggio",
+    "date": "",
+    "url": "",
+    "ne": "-39.09,-22.9",
+    "sw": "-51.31,-40.25",
+    "poly": ""
+  },
+  {
+    "title": "Lot and His Family Fleeing Sodom\tPeter Paul Rubens\t\t\t-54.39,-18.68\t-61.96,-44.21\t\n30\tSunset at the Harbor\"",
+    "zone": 29,
+    "description": "Claude Lorrain",
+    "date": "",
+    "url": "",
+    "ne": "-64.11,-17.97",
+    "sw": "-70.99,-44.3",
+    "poly": ""
+  },
+  {
+    "title": "Entombment",
+    "zone": 31,
+    "description": "Titian",
+    "date": "",
+    "url": "",
+    "ne": "-72.34,-17.67",
+    "sw": "-77.52,-45.09",
+    "poly": ""
+  },
+  {
+    "title": "Christ Carrying the Cross",
+    "zone": 32,
+    "description": "Eustache Le Sueur and his studio",
+    "date": "",
+    "url": "",
+    "ne": "-78.43,-21.97",
+    "sw": "-80.11,-40.52",
+    "poly": ""
+  },
+  {
+    "title": "Landscape with Soldiers and Hunters",
+    "zone": 33,
+    "description": "Salvator Rosa",
+    "date": "",
+    "url": "",
+    "ne": "-40.14,3.69",
+    "sw": "-51.18,-18.33",
+    "poly": ""
+  },
+  {
+    "title": "Madonna and Child with the \nInfant Saint John the Baptist",
+    "zone": 34,
+    "description": "Raphael",
+    "date": "",
+    "url": "",
+    "ne": "-53.54,2.5",
+    "sw": "-64.57,-12.26",
+    "poly": ""
+  },
+  {
+    "title": "Portrait of a Man in Black (the artist Paul de Vos?)",
+    "zone": 35,
+    "description": "Anthony van Dyck",
+    "date": "",
+    "url": "",
+    "ne": "-66.6,1.23",
+    "sw": "-72.42,-11.51",
+    "poly": ""
+  },
+  {
+    "title": "Th\u001fe Union of Design and Color",
+    "zone": 36,
+    "description": "Guido Reni",
+    "date": "",
+    "url": "",
+    "ne": "-73.86,4.3",
+    "sw": "-77.69,-11.82",
+    "poly": ""
+  },
+  {
+    "title": "Portrait of Suzanne Fourment",
+    "zone": 37,
+    "description": "Peter Paul Rubens",
+    "date": "",
+    "url": "",
+    "ne": "-78.5,-10.37",
+    "sw": "-80.5,-18.54",
+    "poly": ""
+  },
+  {
+    "title": "Rest on the Flight into Egypt",
+    "zone": 38,
+    "description": "Simone Cantarini",
+    "date": "",
+    "url": "",
+    "ne": "-78.59,4.57",
+    "sw": "-79.89,-6.86",
+    "poly": ""
+  },
+  {
+    "title": "Head of an Old Man",
+    "zone": 39,
+    "description": "Rembrandt",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-51.72,18.37,-59.15,19.86,-60.13,8.66,-52.96,7.25"
+  },
+  {
+    "title": "Jesus with the Woman Taken in Adultery",
+    "zone": 40,
+    "description": "Anthony van Dyck",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-60.52,21.49,-67,22.54,-67.57,7.65,-61.46,6.64"
+  },
+  {
+    "title": "Marine View by Moonlight",
+    "zone": 41,
+    "description": "Joseph Vernet",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-68.12,22.63,-72.23,22.85,-72.53,7,-68.69,6.99"
+  },
+  {
+    "title": "Artemis with a Doe, called \"Diana of Versailles\"",
+    "zone": 42,
+    "description": "",
+    "date": "Roman copy after Greek\noriginal attributed to Leochares",
+    "url": "",
+    "ne": "-72.63,22.5",
+    "sw": "-78.95,5.01",
+    "poly": ""
+  },
+  {
+    "title": "Copyist, possibly Morse’s recently deceased wife, Lucretia \nPickering Walker, (most likely) or a Miss Joreter, a student",
+    "zone": 43,
+    "description": "",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-79.83,-8.7,-81.87,1.05,-84.07,-0.26,-84.15,-11.78,-81.45,-14.59"
+  },
+  {
+    "title": "Deianeira Abducted by the Centaur Nessus",
+    "zone": 44,
+    "description": "Guido Reni",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-42.74,32.08,-64.51,35.51,-66.09,25.49,-48.16,22.41"
+  },
+  {
+    "title": "Tomyris, Queen of the Scyths",
+    "zone": 45,
+    "description": "Peter Paul Rubens",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-66.23,35.33,-78.15,36.83,-78.17,26.37,-67.71,25.14"
+  },
+  {
+    "title": "Madonna and Child",
+    "zone": 46,
+    "description": "Pierre Mignard",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": "-78.92,28.13,-81.12,28.3,-81.11,25.58,-78.95,25.22"
+  },
+  {
+    "title": "Pilgrimage to the Isle of Cythera",
+    "zone": 47,
+    "description": "Jean-Antoine Watteau",
+    "date": "",
+    "url": "",
+    "ne": "-78.92,33.31",
+    "sw": "-80.41,29.53",
+    "poly": ""
+  },
+  {
+    "title": "Borghese vase (1st century BCE, Greek)",
+    "zone": 48,
+    "description": "",
+    "date": "",
+    "url": "",
+    "ne": "-76.06,-123.57",
+    "sw": "-78.73,-130.96",
+    "poly": ""
+  },
+  {
+    "title": "Borghese vase (1st century BCE, Greek)",
+    "zone": 48,
+    "description": "",
+    "date": "",
+    "url": "",
+    "ne": "",
+    "sw": "",
+    "poly": ""
+  }
+]
