@@ -16,6 +16,10 @@ var L = mapElement.leaflet;
 //   console.log([e.latlng.lat, e.latlng.lng]);
 // });
 
+//do not load tiles we can't see
+mapElement.lookup.painting.options.bounds = map.options.maxBounds;
+map.fitBounds(map.options.maxBounds);
+
 window.paintings.forEach(function(row) {
   var shape;
   if (row.poly) {

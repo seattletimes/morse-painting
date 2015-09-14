@@ -12,7 +12,7 @@
     <responsive-child>
       <div class="aspect-outer">
         <div class="aspect-inner">
-          <leaflet-map zoom=2 lat="-73.2" lng="-74.8">
+          <leaflet-map lat="-73.2" lng="-74.8">
             <tile-layer 
               id="painting"
               url="./assets/tiles/{z}/{x}/{y}.png"
@@ -22,9 +22,10 @@
             </tile-layer>
             <map-options>
 {
-  "minZoom": 2,
+  "minZoom": 1,
   "maxZoom": 5,
-  "maxBounds": [[-90, -180], [-28.6, 39.55]]
+  "maxBounds": [[-90, -180], [-28.6, 39.55]],
+  "scrollWheelZoom": false
 }
             </map-options>
           </leaflet-map>
