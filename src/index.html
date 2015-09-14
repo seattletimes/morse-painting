@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+  <head>
+    <title><%= json.project.title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <%= t.include("partials/_adHead.html") %>
+  </head>
+  <body>
+
+    <responsive-child>
+      <div class="aspect-outer">
+        <div class="aspect-inner">
+          <leaflet-map zoom=2 lat="-73.2" lng="-74.8">
+            <tile-layer 
+              id="painting"
+              url="./assets/tiles/{z}/{x}/{y}.png"
+              subdomains=""
+              nowrap tms
+            >
+            </tile-layer>
+            <map-options>
+{
+  "minZoom": 2,
+  "maxZoom": 5,
+  "maxBounds": [[-90, -180], [-28.6, 39.55]]
+}
+            </map-options>
+          </leaflet-map>
+        </div>
+      </div>
+    </responsive-child>
+
+    <script>
+window.paintings = <%= JSON.stringify(csv.paintings) %>;
+    </script>
+
+    <script src="app.js"></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_adFoot.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>
