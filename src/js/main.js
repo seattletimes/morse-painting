@@ -19,6 +19,7 @@ var L = mapElement.leaflet;
 //do not load tiles we can't see
 mapElement.lookup.painting.options.bounds = map.options.maxBounds;
 map.fitBounds(map.options.maxBounds);
+// window.addEventListener("resize", () => map.fitBounds(map.options.maxBounds));
 
 window.paintings.forEach(function(row) {
   var shape;
@@ -43,3 +44,18 @@ window.paintings.forEach(function(row) {
   var html = popup(row);
   shape.bindPopup(popup(row));
 });
+
+// var fullscreen = 
+//   "requestFullscreen" in document.body ? "requestFullscreen" :
+//   "msRequestFullscreen" in document.body ? "msRequestFullscreen" :
+//   "webkitRequestFullscreen" in document.body ? "webkitRequestFullscreen" :
+//   "mozRequestFullScreen" in document.body ? "mozRequestFullScreen" :
+//   null;
+
+// if (fullscreen) document.body.classList.add("fullscreen-capable");
+
+// document.querySelector(".fullscreen-toggle").addEventListener("click", function() {
+//   mapElement[fullscreen]();
+//   map.options.scrollWheelZoom = true;
+// });
+

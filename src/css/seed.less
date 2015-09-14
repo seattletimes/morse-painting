@@ -16,6 +16,29 @@
     padding-bottom: percentage(6 / 12);
     position: relative;
 
+    .fullscreen-toggle {
+      position: absolute;
+      top: 0;
+      right: 0;
+      display: none;
+      z-index: 99999;
+      text-transform: uppercase;
+      font-family: @df-sans;
+      font-size: 13px;
+      padding: 4px;
+      background: @df-middle-gray;
+      color: @df-light-gray;
+      cursor: pointer;
+
+      &:hover {
+        background: @df-dark-gray;
+      }
+
+      .fullscreen-capable & {
+        display: block;
+      }
+    }
+
     @media @mobile {
       padding-bottom: 100%;
     }
