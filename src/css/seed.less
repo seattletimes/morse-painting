@@ -62,3 +62,26 @@
     fill: white;
   }
 }
+
+leaflet-map {
+
+  opacity: 0;
+  &[ready] { opacity: 1 }
+
+  .leaflet-popup-content-wrapper {
+    border-radius: 0;
+    color: @df-dark-gray;
+    background-image: linear-gradient(to bottom, white, #F0F0F0);
+
+    h1 {
+      font-size: 16px;
+      margin-bottom: 0;
+    }
+
+    p.description {
+      margin-top: 8px;
+      font-size: 15px;
+      font-family: @df-serif;
+    }
+  }
+}

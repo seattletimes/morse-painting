@@ -12,13 +12,12 @@ var mapElement = document.querySelector("leaflet-map");
 var map = mapElement.map;
 var L = mapElement.leaflet;
 
-// map.on("click", function(e) {
-//   console.log([e.latlng.lat, e.latlng.lng]);
-// });
+// map.on("click", e => console.log([e.latlng.lat, e.latlng.lng]));
 
 //do not load tiles we can't see
-mapElement.lookup.painting.options.bounds = map.options.maxBounds;
-map.fitBounds(map.options.maxBounds);
+var realBounds = [[-90, -180], [-28.6, 39.55]];
+mapElement.lookup.painting.options.bounds = L.latLngBounds(realBounds);
+map.fitBounds(realBounds);
 // window.addEventListener("resize", () => map.fitBounds(map.options.maxBounds));
 
 window.paintings.forEach(function(row) {
