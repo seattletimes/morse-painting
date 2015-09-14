@@ -1,8 +1,8 @@
 [
   {
-    "title": "Wedding at Cana, Paolo Veronese",
+    "title": "Wedding at Cana",
     "zone": 1,
-    "description": "",
+    "description": "Paolo Veronese",
     "date": 1563,
     "url": "http://www.louvre.fr/en/oeuvre-notices/wedding-feast-cana",
     "ne": "",
@@ -10,9 +10,9 @@
     "poly": "-28.27,-172.27,-43.3,-152.93,-78.13,-153.28,-78.27,-180,-29.2,-180"
   },
   {
-    "title": "Richard Habersham, Morse's roommate in Paris",
+    "title": "Richard Habersham",
     "zone": 2,
-    "description": "American artist",
+    "description": "The American artist was Morse's roommate in Paris.",
     "date": "d. 1842",
     "url": "",
     "ne": "-79.78,-145.02",
@@ -20,9 +20,9 @@
     "poly": ""
   },
   {
-    "title": "The 'Soult' Immaculate Conception, Bartoleme Murillo",
+    "title": "The 'Soult' Immaculate Conception",
     "zone": 3,
-    "description": "",
+    "description": " Bartoleme Murillo",
     "date": 1678,
     "url": "https://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/the-immaculate-conception-of-the-venerable-ones-or-of-soult/",
     "ne": "",
@@ -30,9 +30,9 @@
     "poly": "-42.23,-146.07,-45.46,-142.03,-57.42,-142.73,-55.88,-146.43"
   },
   {
-    "title": "The Descent from the Cross, Jean Jouvenet",
+    "title": "The Descent from the Cross",
     "zone": 4,
-    "description": "",
+    "description": "Jean Jouvenet",
     "date": 1697,
     "url": "http://www.louvre.fr/en/oeuvre-notices/descent-cross",
     "ne": "",
@@ -40,9 +40,9 @@
     "poly": "-52.9,-151.52,-59.44,-139,-79.34,-138.34,-79.65,-152.58"
   },
   {
-    "title": "Self portrait, Tintoretto",
+    "title": "Self portrait",
     "zone": 5,
-    "description": "",
+    "description": "Tintoretto",
     "date": 1588,
     "url": "",
     "ne": "",
@@ -50,9 +50,9 @@
     "poly": "-47.1,-134.08,-48.48,-125.99,-56.12,-127.97,-55.15,-136.19"
   },
   {
-    "title": "Winter (the Deluge), Nicholas Poussin",
+    "title": "Winter (the Deluge)",
     "zone": 6,
-    "description": "",
+    "description": "Nicholas Poussin",
     "date": "1660-64",
     "url": "",
     "ne": "",
@@ -60,9 +60,9 @@
     "poly": "-54.9,-139.91,-56.51,-124.41,-63.84,-126.17,-63.11,-138.43,-59.55,-138.78,-58.67,-140.32"
   },
   {
-    "title": "The Fortuneteller, Caravaggio",
+    "title": "The Fortuneteller",
     "zone": 7,
-    "description": "",
+    "description": "Caravaggio",
     "date": "1596-97? disputed",
     "url": "",
     "ne": "",
@@ -70,9 +70,9 @@
     "poly": "-63.21,-138.34,-64.17,-124.85,-70.12,-126.17,-69.7,-138.65"
   },
   {
-    "title": "Crowning with Thorns, Titian",
+    "title": "Crowning with Thorns",
     "zone": 8,
-    "description": "",
+    "description": "Titian",
     "date": 1540,
     "url": "",
     "ne": "",
@@ -80,9 +80,9 @@
     "poly": "-69.43,-138.56,-69.9,-126.04,-77.94,-125.64,-77.89,-138.3"
   },
   {
-    "title": "James Fenimore Cooper, his wife Susan DeLancy Fenimore Cooper, and daughter Susan Fenimore Cooper (seated)",
+    "title": "The Cooper family",
     "zone": 9,
-    "description": "",
+    "description": "Author James Fenimore Cooper, his wife Susan DeLancy Cooper, and daughter Susan Fenimore Cooper (seated)",
     "date": "1789-1851",
     "url": "",
     "ne": "-78.42,-123.13",
@@ -180,20 +180,20 @@
     "poly": ""
   },
   {
-    "title": "Horatio Greenough, American sculptor",
+    "title": "Horatio Greenough",
     "zone": 19,
-    "description": "1805-52",
-    "date": "",
+    "description": "The American sculptor was a good friend of Morse's. ",
+    "date": "1805-52",
     "url": "",
     "ne": "-78.38,-86.57",
     "sw": "-80.7,-92.55",
     "poly": ""
   },
   {
-    "title": "Susan Morse, daughter, or possibly a student of Morse",
+    "title": "Susan Morse",
     "zone": 20,
-    "description": "1813-94",
-    "date": "",
+    "description": "Copying a painting is a woman believed to be Susan Morse, Samuel Morse's daughter. Some think she is an unidentified student of Morse. ",
+    "date": "1813-94",
     "url": "",
     "ne": "",
     "sw": "",
@@ -202,8 +202,8 @@
   {
     "title": "Samuel F.B. Morse",
     "zone": 21,
-    "description": "1791-1872",
-    "date": "",
+    "description": "Morse not only invented the telegraph and Morse code, but was also a skilled artist. ",
+    "date": "1791-1872",
     "url": "",
     "ne": "",
     "sw": "",
@@ -280,13 +280,23 @@
     "poly": ""
   },
   {
-    "title": "Lot and His Family Fleeing Sodom\tPeter Paul Rubens\t\t\t-54.39,-18.68\t-61.96,-44.21\t\n30\tSunset at the Harbor\"",
+    "title": "Sunset at the Harbor",
     "zone": 29,
     "description": "Claude Lorrain",
     "date": "",
     "url": "",
     "ne": "-64.11,-17.97",
     "sw": "-70.99,-44.3",
+    "poly": ""
+  },
+  {
+    "title": "Lot and His Family Fleeing Sodom ",
+    "zone": 30,
+    "description": " Peter Paul Rubens",
+    "date": "",
+    "url": "",
+    "ne": "-54.39,-18.68",
+    "sw": " -61.96,-44.21",
     "poly": ""
   },
   {
@@ -320,7 +330,7 @@
     "poly": ""
   },
   {
-    "title": "Madonna and Child with the \nInfant Saint John the Baptist",
+    "title": "Madonna and Child with the Infant Saint John the Baptist",
     "zone": 34,
     "description": "Raphael",
     "date": "",
@@ -330,7 +340,7 @@
     "poly": ""
   },
   {
-    "title": "Portrait of a Man in Black (the artist Paul de Vos?)",
+    "title": "Portrait of a Man in Black",
     "zone": 35,
     "description": "Anthony van Dyck",
     "date": "",
@@ -402,17 +412,17 @@
   {
     "title": "Artemis with a Doe, called \"Diana of Versailles\"",
     "zone": 42,
-    "description": "",
-    "date": "Roman copy after Greek\noriginal attributed to Leochares",
+    "description": "Roman copy after Greek\r\noriginal attributed to Leochares",
+    "date": "",
     "url": "",
     "ne": "-72.63,22.5",
     "sw": "-78.95,5.01",
     "poly": ""
   },
   {
-    "title": "Copyist, possibly Morse’s recently deceased wife, Lucretia \nPickering Walker, (most likely) or a Miss Joreter, a student",
+    "title": "Copyist",
     "zone": 43,
-    "description": "",
+    "description": "This woman is widely believed to be Samuel Morse’s deceased wife, Lucretia Pickering Walker. Others have identified the figure as Miss Joreter, a student.",
     "date": "",
     "url": "",
     "ne": "",
@@ -460,23 +470,13 @@
     "poly": ""
   },
   {
-    "title": "Borghese vase (1st century BCE, Greek)",
+    "title": "Borghese vase ",
     "zone": 48,
-    "description": "",
+    "description": "1st century BCE, Greek",
     "date": "",
     "url": "",
     "ne": "-76.06,-123.57",
     "sw": "-78.73,-130.96",
-    "poly": ""
-  },
-  {
-    "title": "Borghese vase (1st century BCE, Greek)",
-    "zone": 48,
-    "description": "",
-    "date": "",
-    "url": "",
-    "ne": "",
-    "sw": "",
     "poly": ""
   }
 ]
