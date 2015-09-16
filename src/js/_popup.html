@@ -1,5 +1,6 @@
 <h1><%= data.title %></h1>
 <p class="description">
-  <% if (data.painting) { %><b>By:</b> <% } %>
+  <% if (data.painting) { %>By<b> <% } %>
   <%= data.description %>
+  <% if (data.painting) { %></b> <% } %>
 </p>
