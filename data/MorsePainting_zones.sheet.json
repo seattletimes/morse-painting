@@ -2,7 +2,7 @@
   {
     "title": "Wedding at Cana",
     "zone": 1,
-    "description": "Paolo Veronese",
+    "description": "Veronese",
     "painting": "x",
     "date": 1563,
     "url": "http://www.louvre.fr/en/oeuvre-notices/wedding-feast-cana",
@@ -24,7 +24,7 @@
   {
     "title": "The 'Soult' Immaculate Conception",
     "zone": 3,
-    "description": " Bartoleme Murillo",
+    "description": "Murillo",
     "painting": "x",
     "date": 1678,
     "url": "https://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/the-immaculate-conception-of-the-venerable-ones-or-of-soult/",
@@ -145,7 +145,7 @@
   {
     "title": "The Holy Family",
     "zone": 14,
-    "description": "Bartolome Murillo",
+    "description": "Murillo",
     "painting": "x",
     "date": "1665-70",
     "url": "",
@@ -201,7 +201,7 @@
     "title": "Horatio Greenough",
     "zone": 19,
     "description": "The American sculptor was a good friend of Morse's. ",
-    "painting": "x",
+    "painting": "",
     "date": "1805-52",
     "url": "",
     "ne": "-78.38,-86.57",
@@ -321,7 +321,7 @@
   {
     "title": "Lot and His Family Fleeing Sodom ",
     "zone": 30,
-    "description": " Peter Paul Rubens",
+    "description": "Rubens",
     "painting": "x",
     "date": "",
     "url": "",
@@ -376,7 +376,7 @@
   {
     "title": "Portrait of a Man in Black",
     "zone": 35,
-    "description": "Anthony van Dyck",
+    "description": "van Dyck",
     "painting": "x",
     "date": "",
     "url": "",
@@ -398,7 +398,7 @@
   {
     "title": "Portrait of Suzanne Fourment",
     "zone": 37,
-    "description": "Peter Paul Rubens",
+    "description": "Rubens",
     "painting": "x",
     "date": "",
     "url": "",
@@ -431,7 +431,7 @@
   {
     "title": "Jesus with the Woman Taken in Adultery",
     "zone": 40,
-    "description": "Anthony van Dyck",
+    "description": "van Dyck",
     "painting": "x",
     "date": "",
     "url": "",
@@ -442,7 +442,7 @@
   {
     "title": "Marine View by Moonlight",
     "zone": 41,
-    "description": "Joseph Vernet",
+    "description": "Vernet",
     "painting": "x",
     "date": "",
     "url": "",
@@ -486,7 +486,7 @@
   {
     "title": "Tomyris, Queen of the Scyths",
     "zone": 45,
-    "description": "Peter Paul Rubens",
+    "description": "Rubens",
     "painting": "x",
     "date": "",
     "url": "",
@@ -508,7 +508,7 @@
   {
     "title": "Pilgrimage to the Isle of Cythera",
     "zone": 47,
-    "description": "Jean-Antoine Watteau",
+    "description": "Watteau",
     "painting": "x",
     "date": "",
     "url": "",
